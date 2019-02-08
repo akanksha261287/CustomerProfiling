@@ -39,9 +39,15 @@ Eclipse,Intellig or any similar IDE <br />
 Run the main class named CustomerProfilingApplication.java <br />
 After your main class starts. <br />
 Hit http://localhost:8080/ on your browser <br />
-Your browser should display the below Customer Transaction Serach Page <br />
+Your browser should display the below Customer Transaction Serach Page <br /> <br /> 
 ![alt text](https://user-images.githubusercontent.com/43086356/52473036-ecfe3300-2be8-11e9-8d8c-983f78403f08.png) <br /> <br />
 * Enter Customer Id As Integer  <br />
 * Select Month and Year From Dropdown <br />
-* Click Search Customer <br /> 
+* Click Search Customer <br /> <br /> <br /> 
 
+You should be able to see the details as per the problem statement below <br /> <br /> 
+![alt text](https://user-images.githubusercontent.com/43086356/52474401-82e78d00-2bec-11e9-8de0-84b4937e9ee2.png) <br /> <br />
+
+### Note
+Test Data is present in CustomerDetailsTransaction.json. <br />
+You can replace with your customized data whenever required.
