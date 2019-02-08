@@ -1,0 +1,36 @@
+-------------------------------------------------------------------------------
+Test set: com.ing.code.CustomerProfilingApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 8, Skipped: 0, Time elapsed: 2.935 s <<< FAILURE! - in com.ing.code.CustomerProfilingApplicationTests
+shouldReturnMorningPersonAsClassificationType(com.ing.code.CustomerProfilingApplicationTests)  Time elapsed: 0.119 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.ing.code.CustomerProfilingApplicationTests.setup(CustomerProfilingApplicationTests.java:29)
+
+shouldReturnBigTicketSpenderAsClassificationType(com.ing.code.CustomerProfilingApplicationTests)  Time elapsed: 0.003 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.ing.code.CustomerProfilingApplicationTests.setup(CustomerProfilingApplicationTests.java:29)
+
+validateBalance(com.ing.code.CustomerProfilingApplicationTests)  Time elapsed: 0.003 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.ing.code.CustomerProfilingApplicationTests.setup(CustomerProfilingApplicationTests.java:29)
+
+shouldReturnPotentialSaverAsClassificationType(com.ing.code.CustomerProfilingApplicationTests)  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.ing.code.CustomerProfilingApplicationTests.setup(CustomerProfilingApplicationTests.java:29)
+
+shouldReturnBigSpenderAsClassificationType(com.ing.code.CustomerProfilingApplicationTests)  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.ing.code.CustomerProfilingApplicationTests.setup(CustomerProfilingApplicationTests.java:29)
+
+shouldReturnFastSpenderAsClassificationType(com.ing.code.CustomerProfilingApplicationTests)  Time elapsed: 0.003 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.ing.code.CustomerProfilingApplicationTests.setup(CustomerProfilingApplicationTests.java:29)
+
+shouldReturnPotentialLoanCustomerAsClassificationType(com.ing.code.CustomerProfilingApplicationTests)  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.ing.code.CustomerProfilingApplicationTests.setup(CustomerProfilingApplicationTests.java:29)
+
+shouldReturnAfterNoonPersonAsClassificationType(com.ing.code.CustomerProfilingApplicationTests)  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.ing.code.CustomerProfilingApplicationTests.setup(CustomerProfilingApplicationTests.java:29)
+

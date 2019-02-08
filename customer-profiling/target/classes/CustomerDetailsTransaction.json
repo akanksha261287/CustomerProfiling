@@ -1,0 +1,61 @@
+[{
+  "customerId": 1234,
+  "amount": 1500,
+  "dateTimeOfTransaction":"2019-01-15T16:00:00",
+  "transactionType": "credit"
+},
+  {
+    "customerId": 1234,
+    "amount": 100,
+    "dateTimeOfTransaction": "2019-01-29T18:00:00",
+    "transactionType": "debit"
+  },
+  {
+    "customerId": 5678,
+    "amount": 2000,
+    "dateTimeOfTransaction": "2018-02-01T09:00:00",
+    "transactionType": "credit"
+  },
+  {
+    "customerId": 5678,
+    "amount": 1100,
+    "dateTimeOfTransaction": "2018-02-13T13:00:00",
+    "transactionType": "debit"
+  },
+  {
+    "customerId": 5678,
+    "amount": 700,
+    "dateTimeOfTransaction": "2018-02-26T11:00:00",
+    "transactionType": "debit"
+  },
+  {
+    "customerId": 7777,
+    "amount": 3000,
+    "dateTimeOfTransaction": "2018-04-09T09:00:00",
+    "transactionType": "credit"
+  },
+  {
+    "customerId": 7777,
+    "amount": 1800,
+    "dateTimeOfTransaction": "2018-04-13T11:00:00",
+    "transactionType": "debit"
+  },
+  {
+    "customerId": 7777,
+    "amount": 900,
+    "dateTimeOfTransaction": "2018-04-15T10:00:00",
+    "transactionType": "debit"
+  },
+  {
+    "customerId": 6123,
+    "amount": 2500,
+    "dateTimeOfTransaction": "2018-10-15T19:00:00",
+    "transactionType": "credit"
+  },
+  {
+    "customerId": 6123,
+    "amount": 200,
+    "dateTimeOfTransaction": "2018-10-28T10:00:00",
+    "transactionType": "debit"
+  }
+]
