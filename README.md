@@ -39,5 +39,9 @@ Eclipse,Intellig or any similar IDE <br />
 Run the main class named CustomerProfilingApplication.java <br />
 After your main class starts. <br />
 Hit http://localhost:8080/ on your browser <br />
-
+Your browser should display the below Customer Transaction Serach Page <br />
+![alt text](https://user-images.githubusercontent.com/43086356/52473036-ecfe3300-2be8-11e9-8d8c-983f78403f08.png) <br /> <br />
+* Enter Customer Id As Integer  <br />
+* Select Month and Year From Dropdown <br />
+* Click Search Customer <br /> 
 
